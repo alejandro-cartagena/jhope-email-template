@@ -1,0 +1,36 @@
+<!-- HEADER START -->
+        <mj-section background-color="#FFFFFF">
+            <mj-column width="100%">
+                <mj-image href="#" width="100px" src="./assets/JHopeLogo.png" alt="Logo for Jacquelyn Hope" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFD1E0">
+            <mj-column width="100%">
+                <mj-text color="#333333" padding="0" align="center" font-size="26px" font-family="'Pacifico', cursive, sans-serif">
+                    <a class="header-title" href="#">Jacquelyn Hope Jewelry</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFEB97">
+            <mj-column width="25%">
+                <mj-text font-weight="bold" align="center">
+                    <a class="header-links" href="#">Home</a>
+                </mj-text>
+            </mj-column>
+            <mj-column width="25%">
+                <mj-text font-weight="bold" align="center">
+                    <a class="header-links" href="#">Collections</a>
+                </mj-text>
+            </mj-column>
+            <mj-column width="25%">
+                <mj-text font-weight="bold" align="center">
+                    <a class="header-links" href="#">Catalog</a>
+                </mj-text>
+            </mj-column>
+            <mj-column width="25%">
+                <mj-text font-weight="bold" align="center">
+                    <a class="header-links" href="#">About</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- HEADER END -->

@@ -1,0 +1,55 @@
+<!-- FOOTER START -->
+        <mj-section background-color="#FFD1E0">
+            <mj-column width="100%">
+                <mj-text padding-bottom="0" color="#333333" padding="0" align="center" font-size="26px" font-family="'Pacifico', cursive, sans-serif">
+                   Socials
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="0" mj-class="footer-icon-container" background-color="#FFD1E0">
+            <mj-group width="270px">
+                <mj-column width="33.33%">
+                    <mj-image href="#" width="40px" src="./assets/facebook.png" alt="" />
+                </mj-column>
+                <mj-column width="33.33%">
+                    <mj-image href="#" width="38px" src="./assets/instagram.png" alt="" />
+                </mj-column>
+                <mj-column width="33.33%">
+                    <mj-image href="#" width="40px" src="./assets/tiktok.png" alt="" />
+                </mj-column>
+            </mj-group>
+            
+        </mj-section>
+        <mj-section background-size="cover" background-url="./assets/pink-white-bg.jpg" >
+            <mj-column width="100%">
+                <mj-text padding-bottom="0" color="#333333" padding="0" align="center" font-size="18px" font-family="'Pacifico', cursive, sans-serif">
+                   Our Values
+                </mj-text>
+                <mj-text align="center" line-height="22px" font-size="12px">
+                    At Jacquelyn Hope Jewelry, we believe in the beauty of nature and the art of craftsmanship. Each piece is handcrafted with care, incorporating real dehydrated flowers and fruits into resin to create one-of-a-kind jewelry that celebrates individuality and elegance. We’re committed to sustainability, creativity, and empowering you to express yourself through timeless pieces.
+                </mj-text>
+
+                <mj-divider border-width="1px" border-color="#e43e6f" width="100%" padding-bottom="20px"/>
+
+                <mj-text padding-bottom="0" color="#333333" padding="0" align="center" font-size="18px" font-family="'Pacifico', cursive, sans-serif">
+                   Privacy Policy
+                </mj-text>
+                <mj-text align="center" line-height="22px" font-size="12px">
+                    We respect your privacy and are committed to protecting your personal information. To learn more about how we handle your data, please review our <a href="#">Privacy Policy</a>
+                </mj-text>
+                <mj-divider border-width="1px" border-color="#e43e6f" width="100%"/>
+
+                <mj-text padding-bottom="0" align="center" line-height="22px" font-size="12px">
+                    4231 Arbutus Drive, Miami FL
+                </mj-text>
+
+                <mj-text padding-top="0" align="center" line-height="22px" font-size="12px">
+                    Copyright © 2024 Jacquelyn Hope Jewelry, All Rights Reserved.
+                </mj-text>
+
+                <mj-text padding-top="0" align="center" line-height="22px" font-size="11px">
+                    <a href="#">Unsubscribe</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <!-- FOOTER END -->

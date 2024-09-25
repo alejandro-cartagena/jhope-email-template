@@ -1,0 +1,62 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Pacifico" href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap"/>
+        <mj-style inline="inline">
+            
+        </mj-style>
+        <mj-style>
+            .header-title {
+                text-decoration: none;
+                color: #333333
+            }
+
+            .header-title:hover {
+                color: #333333;
+            }
+
+            .header-links {
+                text-decoration: none;
+                color: #333333;
+                font-size: 15px;
+            }
+
+            .header-links:hover {
+                color: #333333;
+            }
+
+            .footer-icon-container {
+                width: 100%;
+                max-width: 300px !important;
+            }
+
+            .custom-section {
+                background-size: cover !important;
+                background-position: center !important;
+                background-repeat: no-repeat !important;
+            }
+
+            
+        </mj-style>
+    </mj-head>
+
+    <mj-body background-color="#F5F5F5">
+
+        <mj-include path="./components/header.mjml" />
+
+        <mj-section>
+            <mj-column width="100%" padding="200px 0">
+                <mj-text align="center" font-size="40px">
+                    BODY
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-include path="./components/footer.mjml" />
+
+        
+
+        
+    </mj-body>
+
+
+</mjml>
